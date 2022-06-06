@@ -1,0 +1,19 @@
+{
+  "name": "electron-launcher",
+  "version": "1.0.0",
+  "description": "Electronでwindows用のランチャーを作りてぇ",
+  "main": "source/app.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mentai-mayo/electron-launcher.git"
+  },
+  "keywords": ["node.js", "electron", "typescript"],
+  "author": "mentai-mayo",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/mentai-mayo/electron-launcher/issues"
+  },
+  "homepage": "https://github.com/mentai-mayo/electron-launcher#readme"
+}
